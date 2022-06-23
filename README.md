@@ -1,5 +1,6 @@
 # LGX_Lite_Stealthburner
-Stealthburner mount for LGX Lite extruder
+Stealthburner mount for LGX Lite extruder.
+Suggest printing with supports touching buildplate.
 
 https://yahoo70052.autodesk360.com/g/shares/SH35dfcQT936092f0e43c16337b1a20600ec
 
